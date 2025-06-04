@@ -1,8 +1,9 @@
 ---
-# the default layout is 'page'
+layout: default
 icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## Biedateka
+
+Projekt ma na celu zebranie w jedno miejsce wszystkich darmowych i legalnych treści.
