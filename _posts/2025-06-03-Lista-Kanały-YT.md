@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "MOVIX"
+title: "Kanał MOVIX"
 tags: 
     - filmy pełnometrażowe
     - thriller
@@ -14,17 +14,10 @@ catagories:
     - Kanały YouTube
 ---
 [![Logo](https://yt3.googleusercontent.com/ytc/AIdro_luYR2jvJsgWzWoO1I_186Sg0lf64VjA8CDjblXN10hGB0=s160-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@movix-official)
-
 ## Opis kanału
 
 Kanał MOVIX zawiera dużą pulę **filmów pełnometrażowych**, w różnych gatunkach.
 Dostepne są filmy kina akcji, dramaty, thrillery, horrory czy filmy historyczne. Nowe produkcje dodawane są co kilka dni, ponadto - możemy znaleźć kilka pozycji starszych.
-
-Przykładowe filmy:
-- [Gorączka Złota (1982)](https://www.youtube.com/watch?v=kJ0J16SKb3k)
-- [GIT (2015)](https://www.youtube.com/watch?v=3rCkzfEfhmM)
-- [Tylko Gotówka (2015)](https://www.youtube.com/watch?v=Tmcem0izBVU)
-- [Dywizjon 303: Historia prawdziwa (2018)](https://www.youtube.com/watch?v=u3JMoSAkIv0)
 
 ## Czy treści są legalne?
 
