@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "KINO NOSTALGII"
 tags: 
     - filmy pełnometrażowe

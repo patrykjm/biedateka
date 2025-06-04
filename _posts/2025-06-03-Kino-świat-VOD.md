@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Kino Świat VOD"
 tags: 
     - filmy pełnometrażowe

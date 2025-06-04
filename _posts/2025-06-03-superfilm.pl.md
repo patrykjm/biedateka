@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "superfilm.pl"
 tags: 
     - filmy pełnometrażowe

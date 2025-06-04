@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Studio Miniatur Filmowych"
 tags: 
     - filmy pełnometrażowe
