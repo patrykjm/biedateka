@@ -12,9 +12,10 @@ tags:
     - komedia
     - film dokumentalny
 categories:
-    - Kanały YouTube
+    - YouTube
+    - Kanały
 ---
-[![Logo](https://yt3.googleusercontent.com/ytc/AIdro_nkz7dDWGqskkdfAVcyg8ucr9AMm1mUR8eDn9qi1RM7ezs=s160-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@KinoSwiatVOD)
+[![Logo](https://yt3.googleusercontent.com/ytc/AIdro_nkz7dDWGqskkdfAVcyg8ucr9AMm1mUR8eDn9qi1RM7ezs=s160-c-k-c0x00ffffff-no-rj){:style="display:block; margin-left:auto; margin-right:auto; width:150px; height:150px; border-radius:50%; object-fit:cover; box-shadow:0 2px 8px rgba(0,0,0,0.15);"}](https://www.youtube.com/@KinoSwiatVOD)
 
 ## Opis kanału
 

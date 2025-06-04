@@ -8,9 +8,10 @@ tags:
     - film historyczny
     - Kanał YT
 categories:
-    - Kanały YouTube
+    - YouTube
+    - Kanały
 ---
-[![Logo](https://yt3.googleusercontent.com/tKtR_MzuYKZZFMH7BNCdVhwlmH4u76Le0IdbT031D2gx1b8oxrZFhJORN9-AuE_1eH-bKIpZ=s160-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@documentary-channel)
+[![Logo](https://yt3.googleusercontent.com/tKtR_MzuYKZZFMH7BNCdVhwlmH4u76Le0IdbT031D2gx1b8oxrZFhJORN9-AuE_1eH-bKIpZ=s160-c-k-c0x00ffffff-no-rj){:style="display:block; margin-left:auto; margin-right:auto; width:150px; height:150px; border-radius:50%; object-fit:cover; box-shadow:0 2px 8px rgba(0,0,0,0.15);"}](https://www.youtube.com/@documentary-channel)
 
 ## Opis kanału
 
