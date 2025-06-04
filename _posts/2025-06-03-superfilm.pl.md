@@ -10,7 +10,7 @@ tags:
     - fabuła
     - film historyczny
     - Kanał YT
-catagories:
+categories:
     - Kanały YouTube
 ---
 [![Logo](https://yt3.googleusercontent.com/ytc/AIdro_n3qvHDVpKHsNdwYKokD3yJa0f0rKlh-kEcs2ucXJNd0uk=s160-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@superfilmpl)

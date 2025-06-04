@@ -10,7 +10,7 @@ tags:
     - fantasy
     - film historyczny
     - Kanał YT
-catagories:
+categories:
     - Kanały YouTube
 ---
 [![Logo](https://yt3.googleusercontent.com/ytc/AIdro_mXiGiEBA29hJN2NOUNqZnO-qyy7klTeFtCkqqnoZCkSBg=s160-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@CinemaPolska)

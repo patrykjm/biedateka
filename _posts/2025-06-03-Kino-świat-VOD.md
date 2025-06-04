@@ -11,7 +11,7 @@ tags:
     - Kanał YT
     - komedia
     - film dokumentalny
-catagories:
+categories:
     - Kanały YouTube
 ---
 [![Logo](https://yt3.googleusercontent.com/ytc/AIdro_nkz7dDWGqskkdfAVcyg8ucr9AMm1mUR8eDn9qi1RM7ezs=s160-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@KinoSwiatVOD)

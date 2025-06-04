@@ -10,7 +10,7 @@ tags:
     - fabuła
     - film historyczny
     - Kanał YT
-catagories:
+categories:
     - Kanały YouTube
 ---
 [![Logo](https://yt3.googleusercontent.com/ytc/AIdro_luYR2jvJsgWzWoO1I_186Sg0lf64VjA8CDjblXN10hGB0=s160-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@movix-official)

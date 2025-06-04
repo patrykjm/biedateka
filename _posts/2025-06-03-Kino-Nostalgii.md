@@ -10,7 +10,7 @@ tags:
     - fabuła
     - Kanał YT
     - komedia romantyczna
-catagories:
+categories:
     - Kanały YouTube
 ---
 [![Logo](https://yt3.googleusercontent.com/xq40rCFvQ3rCIruZ3cxTcKm77X0gzMp-uud-74X5TyMng9ZpsBUd5QHz271STgE8I4X6kKnvp9g=s160-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@KINONOSTALGII)

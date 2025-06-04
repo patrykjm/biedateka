@@ -8,7 +8,7 @@ tags:
     - film świąteczny
     - fabuła
     - Kanał YT
-catagories:
+categories:
     - Kanały YouTube
 ---
 [![Logo](https://yt3.googleusercontent.com/pGV_fQifBNESJrOHTHVd4VG5jfVXDSSi_2zYj9Li_2GW5-1qeCZpuvsVV1pgseq0Ap-lYmv1Xw=s160-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@FILMFORYOU)

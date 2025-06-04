@@ -10,7 +10,7 @@ tags:
     - fabuła
     - film historyczny
     - Kanał YT
-catagories:
+categories:
     - Kanały YouTube
 ---
 [![Logo](https://yt3.googleusercontent.com/iwdWgXk8fWt8CtiWDje_eiw2NsluBfxApxuKI60ekSU3p9N32tHncLwKbmmuGtrQRhnVAU6dlg=s160-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@SCREENINGROOMCHANNEL)

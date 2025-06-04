@@ -11,7 +11,7 @@ tags:
     - film historyczny
     - Kanał YT
     - komedie romantyczne
-catagories:
+categories:
     - Kanały YouTube
 ---
 [![Logo](https://yt3.googleusercontent.com/T24WzDAR00bG3kCykvsUxoHCd_Njt8Etm-1Xtp6y67cYK47cLkxmH4acCKU-P8xGoOoarZVD=s160-c-k-c0x00ffffff-no-rj)](www.youtube.com/@SonovisionOfficial)

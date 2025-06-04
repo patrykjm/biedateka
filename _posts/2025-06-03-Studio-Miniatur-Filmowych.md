@@ -6,7 +6,7 @@ tags:
     - animacje
     - bajki
     - Kanał YT
-catagories:
+categories:
     - Kanały YouTube
 ---
 [![Logo](https://yt3.googleusercontent.com/ytc/AIdro_lqqEMCwLR4tYtUirnqBExF_1ylz2IN6g-0hDMjh8ZzRdU=s160-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@StudioMiniaturF)

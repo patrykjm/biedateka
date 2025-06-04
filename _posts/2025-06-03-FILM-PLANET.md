@@ -11,7 +11,7 @@ tags:
     - Kanał YT
     - komedia
     - dramat
-catagories:
+categories:
     - Kanały YouTube
 ---
 [![Logo](https://yt3.googleusercontent.com/8WfCBYAE3h29DMr1mR4dRomrwnpDCMKWmHjW7fPzbAW9MsTZERjORLerwJioJfCKg7PP4Y5qjvo=s160-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@FILMPLANET)
