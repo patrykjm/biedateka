@@ -9,11 +9,15 @@ order: 3
 
 ## Kanały
 
-- [Polimaty](https://www.youtube.com/user/polimaty) – Nauka, ciekawostki, historia.
-- [Astrofaza](https://www.youtube.com/user/astrofaza) – Astronomia, kosmos, nauka.
-- [Uwaga! Naukowy Bełkot](https://www.youtube.com/user/uwagablekot) – Popularnonaukowy kanał o biologii, chemii i nauce.
-- [7 metrów pod ziemią](https://www.youtube.com/channel/UCvZzO0Qv4z5l3r2QVrZK_2A) – Wywiady, reportaże, społeczeństwo.
-- [Krzysztof Gonciarz](https://www.youtube.com/user/wybuchajacebeczki) – Vlogi, podróże, kultura.
+- [![Logo](https://yt3.googleusercontent.com/8WfCBYAE3h29DMr1mR4dRomrwnpDCMKWmHjW7fPzbAW9MsTZERjORLerwJioJfCKg7PP4Y5qjvo=s160-c-k-c0x00ffffff-no-rj){:style="display:block; margin-left:auto; margin-right:auto; width:15px; height:15px; border-radius:50%; object-fit:cover; box-shadow:0 2px 8px rgba(0,0,0,0.15);"}](https://www.youtube.com/@FILMPLANET) FILMPLANET
+
+
+
+
+[![Logo](https://yt3.googleusercontent.com/8WfCBYAE3h29DMr1mR4dRomrwnpDCMKWmHjW7fPzbAW9MsTZERjORLerwJioJfCKg7PP4Y5qjvo=s160-c-k-c0x00ffffff-no-rj){:style="display:block; margin-left:auto; margin-right:auto; width:15px; height:15px; border-radius:50%; object-fit:cover; box-shadow:0 2px 8px rgba(0,0,0,0.15);"}](https://www.youtube.com/@FILMPLANET)
+
+
+
 
 ## Kanały dla dzieci
 
@@ -24,4 +28,4 @@ order: 3
 
 ---
 
-*Masz propozycje innych kanałów? Dodaj je do tej listy!*
+*Masz propozycje innych kanałów? Napisz mi e-maila na biedateka@gmail.com*
