@@ -1,9 +1,8 @@
 ---
 layout: default
-icon: fa-brands fa-youtube
+icon: fa-solid fa-tv
 order: 5
 ---
-
 
 ## Test Telewizje
 
