@@ -9,12 +9,9 @@ order: 3
 
 ## Kanały
 
-- [![Logo](https://yt3.googleusercontent.com/8WfCBYAE3h29DMr1mR4dRomrwnpDCMKWmHjW7fPzbAW9MsTZERjORLerwJioJfCKg7PP4Y5qjvo=s160-c-k-c0x00ffffff-no-rj){:style="display:block; margin-left:auto; margin-right:auto; width:15px; height:15px; border-radius:50%; object-fit:cover; box-shadow:0 2px 8px rgba(0,0,0,0.15);"}](https://www.youtube.com/@FILMPLANET) FILMPLANET
+- [![Logo](https://yt3.googleusercontent.com/8WfCBYAE3h29DMr1mR4dRomrwnpDCMKWmHjW7fPzbAW9MsTZERjORLerwJioJfCKg7PP4Y5qjvo=s160-c-k-c0x00ffffff-no-rj){:style="display:block; width:30px; height:30px; border-radius:50%; object-fit:cover; box-shadow:0 2px 8px rgba(0,0,0,0.15);"}](https://www.youtube.com/@FILMPLANET) [FILMPLANET](https://www.youtube.com/@FILMPLANET)
 
-
-
-
-[![Logo](https://yt3.googleusercontent.com/8WfCBYAE3h29DMr1mR4dRomrwnpDCMKWmHjW7fPzbAW9MsTZERjORLerwJioJfCKg7PP4Y5qjvo=s160-c-k-c0x00ffffff-no-rj){:style="display:block; margin-left:auto; margin-right:auto; width:15px; height:15px; border-radius:50%; object-fit:cover; box-shadow:0 2px 8px rgba(0,0,0,0.15);"}](https://www.youtube.com/@FILMPLANET)
+- asd
 
 
 
