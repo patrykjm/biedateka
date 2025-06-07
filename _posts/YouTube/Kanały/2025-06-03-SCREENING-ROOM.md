@@ -9,7 +9,6 @@ tags:
     - dramat
     - fabuła
     - film historyczny
-    - Kanał YT
 categories:
     - YouTube
     - Kanały 

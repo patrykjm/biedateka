@@ -5,7 +5,6 @@ tags:
     - filmy pełnometrażowe
     - animacje
     - bajki
-    - Kanał YT
 categories:
     - YouTube
     - Kanały dla dzieci

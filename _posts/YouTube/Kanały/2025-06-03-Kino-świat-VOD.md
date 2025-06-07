@@ -8,7 +8,6 @@ tags:
     - horror
     - dramat
     - fabuła
-    - Kanał YT
     - komedia
     - film dokumentalny
 categories:

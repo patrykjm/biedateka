@@ -9,7 +9,6 @@ tags:
     - seriale
     - fantasy
     - film historyczny
-    - Kanał YT
 categories:
     - YouTube
     - Kanały

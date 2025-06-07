@@ -7,7 +7,6 @@ tags:
     - romans
     - film świąteczny
     - fabuła
-    - Kanał YT
 categories:
     - YouTube
     - Kanały

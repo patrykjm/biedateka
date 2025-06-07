@@ -8,7 +8,6 @@ tags:
     - western
     - dramat
     - fabuła
-    - Kanał YT
     - komedia romantyczna
 categories:
     - YouTube

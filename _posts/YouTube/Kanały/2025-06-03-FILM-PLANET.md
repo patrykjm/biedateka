@@ -8,7 +8,6 @@ tags:
     - horror
     - fabuła
     - kino sztuk walki
-    - Kanał YT
     - komedia
     - dramat
 categories:

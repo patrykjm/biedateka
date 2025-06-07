@@ -6,7 +6,6 @@ tags:
     - film dokumentalny
     - program naukowy
     - film historyczny
-    - Kanał YT
 categories:
     - YouTube
     - Kanały
