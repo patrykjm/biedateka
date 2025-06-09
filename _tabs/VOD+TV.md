@@ -54,7 +54,7 @@ order: 4
 
 ---
 
-[![Logo](https://play-lh.googleusercontent.com/OXHT8l42wA8GR9F-IQSgAw7mguTuy4v5bYNdQuY0gax22mr4l1H9s4V1G6Zs67a-EmE=w240-h480-rw){:style="display:inline-block; width:50px; height:50px; border-radius:50%; box-shadow:0 2px 8px rgba(0,0,0,0.15);"}](https://35mm.online)   [**35mm**](https://35mm.online) - to do[...czytaj dalej](https://patrykjm.github.io/biedateka/posts/35mm/)
+[![Logo](https://play-lh.googleusercontent.com/OXHT8l42wA8GR9F-IQSgAw7mguTuy4v5bYNdQuY0gax22mr4l1H9s4V1G6Zs67a-EmE=w240-h480-rw){:style="display:inline-block; width:50px; height:50px; border-radius:50%; box-shadow:0 2px 8px rgba(0,0,0,0.15);"}](https://35mm.online)   [**35mm**](https://35mm.online) - to polski portal VOD, który udostępnia szeroki wybór cyfrowo zrekonstruowanych i zdigitalizowanych filmów, dokumentów, animacji oraz kronik filmowych.[...czytaj dalej](https://patrykjm.github.io/biedateka/posts/35mm/)
 
 ---
 

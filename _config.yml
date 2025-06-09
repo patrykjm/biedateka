@@ -224,3 +224,5 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+goatcounter_id: biedateka  # Twoja subdomena bez .goatcounter.com
