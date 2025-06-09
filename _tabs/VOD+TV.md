@@ -46,7 +46,7 @@ order: 4
 
 ---
 
-[![Logo](https://play-lh.googleusercontent.com/YcjEGa38h4BQuOuuoBE5f6ZhllEHqNkm0hs1fpBIcs1q6DPXxTY9sSRaeFhvYg82YhWS=w240-h480-rw){:style="display:inline-block; width:50px; height:50px; border-radius:50%; box-shadow:0 2px 8px rgba(0,0,0,0.15);"}](https://www.arte.tv/pl/)   [**arte.tv**](https://www.arte.tv/pl/) - to do [...czytaj dalej](https://patrykjm.github.io/biedateka/posts/arte.tv/)
+[![Logo](https://play-lh.googleusercontent.com/YcjEGa38h4BQuOuuoBE5f6ZhllEHqNkm0hs1fpBIcs1q6DPXxTY9sSRaeFhvYg82YhWS=w240-h480-rw){:style="display:inline-block; width:50px; height:50px; border-radius:50%; box-shadow:0 2px 8px rgba(0,0,0,0.15);"}](https://www.arte.tv/pl/)   [**ARTE.tv**](https://www.arte.tv/pl/) - ARTE to międzynarodowa platforma oferująca głównie dokumenty, filmy, seriale, programy informacyjne oraz muzykę i występy artystyczne[...czytaj dalej](https://patrykjm.github.io/biedateka/posts/arte.tv/)
 
 ---
 
