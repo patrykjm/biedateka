@@ -61,7 +61,7 @@ analytics:
   google:
     id: # fill in your Google Analytics ID
   goatcounter:
-    id: # fill in your GoatCounter ID
+    id: biedateka 
   umami:
     id: # fill in your Umami ID
     domain: # fill in your Umami domain
@@ -224,5 +224,3 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-
-goatcounter_id: biedateka  # Twoja subdomena bez .goatcounter.com
