@@ -9,7 +9,7 @@ order: 4
 
 ---
 
-[![Logo](https://play-lh.googleusercontent.com/U1Jmggzj5vqh1dpbEGk8RuLuilN9GeWZwSKey1Ad5yy1yHkCkPYrtcopdNRZ62YDfMU=w240-h480-rw){:style="display:inline-block; width:50px; height:50px; border-radius:50%; box-shadow:0 2px 8px rgba(0,0,0,0.15);"}](https://vod.tvp.pl)   [**TVP VOD**](https://vod.tvp.pl) - to do [...czytaj dalej](https://patrykjm.github.io/biedateka/posts/TVP-VOD)
+[![Logo](https://play-lh.googleusercontent.com/U1Jmggzj5vqh1dpbEGk8RuLuilN9GeWZwSKey1Ad5yy1yHkCkPYrtcopdNRZ62YDfMU=w240-h480-rw){:style="display:inline-block; width:50px; height:50px; border-radius:50%; box-shadow:0 2px 8px rgba(0,0,0,0.15);"}](https://vod.tvp.pl)   [**TVP VOD**](https://vod.tvp.pl) - To polski serwis streamingowy typu wideo na żądanie (VOD), należący do Telewizji Polskiej. Platforma oferuje mieszany model dostępu[...czytaj dalej](https://patrykjm.github.io/biedateka/posts/TVP-VOD)
 
 ---
 
@@ -17,7 +17,7 @@ order: 4
 
 ---
 
-[![Logo](https://play-lh.googleusercontent.com/1wvyNpKnFSmHianlDCvFxiZyCdA0LxrppA2KLjRD-A_nvFKzuKxmXax6rad2Qu-IVQ=s48){:style="display:inline-block; width:50px; height:50px; border-radius:50%; box-shadow:0 2px 8px rgba(0,0,0,0.15);"}](https://www.rakuten.tv/pl)   [**Rakuten**](https://www.rakuten.tv/pl) - to do [...czytaj dalej](https://patrykjm.github.io/biedateka/posts/Rakuten/)
+[![Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/7c/ae/5d7caeb1-ab0b-757d-7024-5136b7412972/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/230x0w.webp){:style="display:inline-block; width:50px; height:50px; border-radius:50%; box-shadow:0 2px 8px rgba(0,0,0,0.15);"}](https://www.rakuten.tv/pl)   [**Rakuten**](https://www.rakuten.tv/pl) - To platforma streamingowa VOD (wideo na żądanie), która umożliwia dostęp do filmów, seriali i programów telewizyjnych. Dużo westernów, horrorów, filmów akcji, familijnych - czy też komedii[...czytaj dalej](https://patrykjm.github.io/biedateka/posts/Rakuten/)
 
 ---
 
