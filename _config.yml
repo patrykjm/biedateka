@@ -16,10 +16,10 @@ timezone:
 
 title: Biedateka # the main title
 
-tagline: Serwisy VOD, telewizje oraz kanały YouTube z legalnymi, darmowymi filmami i serialami w jednym miejscu.
+tagline: Darmowa rozrywka, legalne źródła. Twój osobisty przewodnik po świecie bezpłatnego VOD, telewizji internetowej i wartościowych treści na YouTube. # the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Serwisy VOD, telewizje oraz kanały YouTube z legalnymi, darmowymi filmami i serialami w jednym miejscu.
+  Odkrywaj, oglądaj, oszczędzaj. Znajdź najlepsze darmowe filmy, seriale i treści kulturalne dostępne legalnie w serwisach VOD, telewizji online i na YouTube.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.

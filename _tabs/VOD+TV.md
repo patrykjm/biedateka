@@ -13,7 +13,7 @@ order: 4
 
 ---
 
-[![Logo](https://play-lh.googleusercontent.com/06BCcW6rW0Lh0f8Wa51IJPuAfXzmmVmj6ip6r9whuRgG-dJQjBdytmZ0K1EMxF8CGy4=w240-h480-rw){:style="display:inline-block; width:50px; height:50px; border-radius:50%; box-shadow:0 2px 8px rgba(0,0,0,0.15);"}](https://player.pl/)   [**Player**](https://player.pl/) - to do [...czytaj dalej](https://patrykjm.github.io/biedateka/posts/Player/)
+[![Logo](https://play-lh.googleusercontent.com/06BCcW6rW0Lh0f8Wa51IJPuAfXzmmVmj6ip6r9whuRgG-dJQjBdytmZ0K1EMxF8CGy4=w240-h480-rw){:style="display:inline-block; width:50px; height:50px; border-radius:50%; box-shadow:0 2px 8px rgba(0,0,0,0.15);"}](https://player.pl/)   [**Player**](https://player.pl/) -  to polski serwis streamingowy VOD należący do grupy TVN, opisywany jako jedna z najbardziej uniwersalnych platform w kraju[...czytaj dalej](https://patrykjm.github.io/biedateka/posts/Player/)
 
 ---
 
