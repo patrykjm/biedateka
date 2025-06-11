@@ -29,7 +29,7 @@ order: 4
 
 ---
 
-[![Logo](https://play-lh.googleusercontent.com/P7GO0gh2Er6TYt7HChGcmlsH1wmOEGUKLz7blTZwdv_WqJpuGW35qwZh1MisDvdUMu-2){:style="display:inline-block; width:50px; height:50px; border-radius:50%; box-shadow:0 2px 8px rgba(0,0,0,0.15);"}](https://sweet.tv/pl/)   [**SWEET.TV**](https://sweet.tv/pl/) - to nowoczesna platforma, która łączy w sobie bogatą ofertę kanałów telewizyjnych na żywo oraz bibliotekę filmów i seriali na żądanie[...czytaj dalej](https://patrykjm.github.io/biedateka/posts/SWEET.TV/)
+[![Logo](https://play-lh.googleusercontent.com/P7GO0gh2Er6TYt7HChGcmlsH1wmOEGUKLz7blTZwdv_WqJpuGW35qwZh1MisDvdUMu-2){:style="display:inline-block; width:50px; height:50px; border-radius:50%; box-shadow:0 2px 8px rgba(0,0,0,0.15);"}](https://sweet.tv/pl/)   [**SWEET.TV**](https://sweet.tv/pl/) - to nowoczesna platforma, która łączy w sobie bogatą ofertę kanałów telewizyjnych na żywo oraz bibliotekę filmów i seriali na żądanie[...czytaj dalej](https://patrykjm.github.io/biedateka/posts/sweet.tv/)
 
 ---
 
@@ -42,7 +42,7 @@ order: 4
 
 ---
 
-[![Logo](https://play-lh.googleusercontent.com/AJxt2Qdis_Y8i6vrh-jki3eeeGsfswJovFvPTj0j8KCXgPd4oxowPwwwuttb-3cAtgjK=w240-h480-rw){:style="display:inline-block; width:50px; height:50px; border-radius:50%; box-shadow:0 2px 8px rgba(0,0,0,0.15);"}](https://ninateka.pl)   [**Ninateka**](https://ninateka.pl) - to serwis VOD Filmoteki Narodowej – Instytutu Audiowizualnego oferujący filmy fabularne, dokumentalne oraz animowane, rejestracje konferencji, spotkań z twórcami, wykładów, spektakli i koncertów, audiobooki oraz słuchowiska. To ponad 4000 plików audio i wideo, które stanowią zapis polskiej kultury i historii sztuki filmowej[...czytaj dalej](https://patrykjm.github.io/biedateka/posts/Ninateka/)
+[![Logo](https://play-lh.googleusercontent.com/AJxt2Qdis_Y8i6vrh-jki3eeeGsfswJovFvPTj0j8KCXgPd4oxowPwwwuttb-3cAtgjK=w240-h480-rw){:style="display:inline-block; width:50px; height:50px; border-radius:50%; box-shadow:0 2px 8px rgba(0,0,0,0.15);"}](https://ninateka.pl)   [**Ninateka**](https://ninateka.pl) - to serwis VOD Filmoteki Narodowej – Instytutu Audiowizualnego oferujący filmy fabularne, dokumentalne oraz animowane, rejestracje konferencji, spotkań z twórcami, wykładów, spektakli i koncertów, audiobooki oraz słuchowiska. To ponad 4000 plików audio i wideo, które stanowią zapis polskiej kultury i historii sztuki filmowej[...czytaj dalej](https://patrykjm.github.io/biedateka/posts/ninateka/)
 
 ---
 
